@@ -1,1 +1,1 @@
-# Conquering-Currencies-Pythonic-Conversions-with-forex_python
+# Conquering-Currencies: Pythonic Conversions with forex python
